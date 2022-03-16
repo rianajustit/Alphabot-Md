@@ -12,17 +12,17 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read pesan / message
-global.autorecording = true //status auto merekam ( auto record )
-global.autoketik = false //status auto mengetik (auto typing)
-global.available = false //status online (online)
+global.autoread = false 
+global.autorecording = true 
+global.autoketik = false
+global.available = false
 
 // Other
 global.botname = "RIBOT" 
 global.ownername= "RI"
-global.myweb ="" 
-global.youtube = "" 
-global.github = "https:https://github.com/rianajustit" 
+global.myweb ="https://api-alphabot.herokuapp.com/" 
+global.youtube = "https://www.youtube.com/channel/UC6vd9xjR_8N7cJQYlCk_K8A" 
+global.github = "https://github.com/rianajustit" 
 global.email = "rianajustit@gmail.com" 
 global.region = "Indonesia" 
 global.ownernomer = "6281392720979"
